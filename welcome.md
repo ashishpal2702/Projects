@@ -5,7 +5,7 @@
     alt="It’s Ashish, Professional Data Scientist and AI enthusiast. 
             I love to solving problems using data, it’s my passion. 
             I am here to help you, in your data science journey. Stay connect with me……..😊"
-    src="https://raw.githubusercontent.com/mljar/visual-identity/main/mercury/turn-notebook-to-web-app.png" width="100%" />  
+    src="https://raw.githubusercontent.com/ashishpal2702/Projects/main/ashish.JPG" width="100%" />  
 </p>
 
 
