@@ -1,14 +1,11 @@
-# 👋 Sketch app 
+# 👋 Hello Welcome to Path to AI by Ashish PAL
 
-This sketch web application was built with Jupyter Notebook and Mercury framework.
+This Page is dedicated to various AI and Data Science projects.
 
-Mercury allows you to convert your notebooks into web apps by adding YAML header. Based on YAML the widgets are generated for notebook.
-
-Below are prestented two apps, both with the same code. The one app has code hidden and one code available.
 
 ## 🔗 Useful links 
-
-- Code repository at [GitHub](https://github.com/pplonski/artistic-sketches-jupyter-mercury) 
-- Mercury framework code at [GitHub](https://github.com/mljar/mercury)
+- Linkedin [Linkedin](https://www.linkedin.com/in/aashishpal/)
+- Github Portfolio [GitHub](https://github.com/ashishpal2702) 
+- PATH TO AI WEBSITE [Website](https://pathotai.com)
 
 ## 🖥️ Apps 
