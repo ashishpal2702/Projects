@@ -1,14 +1,12 @@
 # 👋 Hello Welcome to Path to AI by Ashish PAL
 
-<p align="center">
+<p align="left">
   <img 
     alt="It’s Ashish, Professional Data Scientist and AI enthusiast. 
             I love to solving problems using data, it’s my passion. 
             I am here to help you, in your data science journey. Stay connect with me……..😊"
-    src="https://raw.githubusercontent.com/ashishpal2702/Projects/main/ashish.JPG" width="100%" />  
+    src="https://raw.githubusercontent.com/ashishpal2702/Projects/main/ashish.JPG" width="50%" />  
 </p>
-
-
 
 
 ## 🔗 links 
