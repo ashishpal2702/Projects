@@ -1,0 +1,4 @@
+mljar-mercury>=0.5.1
+opencv-python-headless
+pillow
+matplotlib 
