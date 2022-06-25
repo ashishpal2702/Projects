@@ -1,9 +1,15 @@
 # 👋 Hello Welcome to Path to AI by Ashish PAL
-![img.png](img.png)
 
-It’s Ashish, Professional Data Scientist and AI enthusiast. 
-I love to solving problems using data, it’s my passion. 
-I am here to help you, in your data science journey. Stay connect with me……..😊
+<p align="center">
+  <img 
+    alt="It’s Ashish, Professional Data Scientist and AI enthusiast. 
+            I love to solving problems using data, it’s my passion. 
+            I am here to help you, in your data science journey. Stay connect with me……..😊"
+    src="https://raw.githubusercontent.com/mljar/visual-identity/main/mercury/turn-notebook-to-web-app.png" width="100%" />  
+</p>
+
+
+
 
 ## 🔗 links 
 - Linkedin [Linkedin](https://www.linkedin.com/in/aashishpal/)
